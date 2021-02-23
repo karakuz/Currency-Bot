@@ -1,0 +1,126 @@
+{
+    "status":[
+        {"lang" : "english", "text" : "Online Since $"},
+        {"lang" : "turkish", "text" : "$'den beri online"}
+    ],
+    "setlanguage":[
+        {"lang" : "english", "text" : "Language is changed to English\nCheck `+help` for new command names"},
+        {"lang" : "turkish", "text" : "Dil Türkçe olarak değiştirildi\nYeni komut adları için `+yardım`"}
+    ],
+    "languages":[
+        {"lang" : "english", "text" : "Supported languages: $"},
+        {"lang" : "turkish", "text" : "Desteklenen diller: $"}
+    ],
+    "lang_err":[
+        {"lang" : "english", "text" : "Language is already $!"},
+        {"lang" : "turkish", "text" : "Dil zaten $!"}
+    ],
+    "lang_err2":[
+        {"lang" : "english", "text" : "There is no such language, type `+languages` to check languages"},
+        {"lang" : "turkish", "text" : "Böyle bir dil tanımlı değil, tanımlı olan diller için `+diller`"}
+    ],
+    "perm_err":[
+        {"lang" : "english", "text" : "You dont have permission to change this; Administrator permission is required"},
+        {"lang" : "turkish", "text" : "Bunu değiştirmek için yetkiniz yok; Admin yetkiniz olmalı"}
+    ],
+    "set_lang_missingInfo":[
+        {"lang" : "english", "text" : "Please provide a language, type `+languages` to check languages"},
+        {"lang" : "turkish", "text" : "Bir dil belirtin, tanımlı olan diller için `+diller"}
+    ],
+    "customcommands":[
+        {"lang" : "english", "text" : "There is no assigned custom commands"},
+        {"lang" : "turkish", "text" : "Herhangi bir özel komut tanımlı değil"}
+    ],
+    "addcustom":[
+        {"lang" : "english", "text" : "Enter a command name below without prefix:"},
+        {"lang" : "turkish", "text" : "Aşağıya bir komut adı girin:"}
+    ],
+    "addcustom2":[
+        {"lang" : "english", "text" : "Enter a text below going be sent when command is called: "},
+        {"lang" : "turkish", "text" : "Aşağıya komut çağrıldığında gönderilmesi istenen yazıyı girin: "}
+    ],
+    "addcustom3":[
+        {"lang" : "english", "text" : "+$ has been added!"},
+        {"lang" : "turkish", "text" : "+$ komutu eklendi"}
+    ],
+    "addcustom_max_err":[
+        {"lang" : "english", "text" : "A server can have max 10 custom commands!"},
+        {"lang" : "turkish", "text" : "Bir sunucunun max 10 özel komutu olabilir!"}
+    ],
+    "addcustom_err":[
+        {"lang" : "english", "text" : "No argument provided, command is canceled"},
+        {"lang" : "turkish", "text" : "Herhangi bir argüman verilmedi, komut iptal edildi"}
+    ],
+    "addcustom_err2":[
+        {"lang" : "english", "text" : "+$ command exists. type +removecustom to delete"},
+        {"lang" : "turkish", "text" : "+$ komutu zaten tanımlı, silmek için +özelkomutsil yazın"}
+    ],
+    "addcustom_err3":[
+        {"lang" : "english", "text" : "Command can contain only numbers and letters"},
+        {"lang" : "turkish", "text" : "Komut sadece sayı ve numara içermelidir"}
+    ],
+    "removecustom_success":[
+        {"lang" : "english", "text" : "+$ is deleted"},
+        {"lang" : "turkish", "text" : "+$ komutu silindi"}
+    ],
+    "removecustom_err":[
+        {"lang" : "english", "text" : "There is no custom command as +$"},
+        {"lang" : "turkish", "text" : "+$ özel komutu tanımlı değil"}
+    ],
+    "removecustom_err2":[
+        {"lang" : "english", "text" : "Please provide command name after +removecustom"},
+        {"lang" : "turkish", "text" : "Lütfen +özelkomutsil 'den sonra komut adı veriniz"}
+    ],
+    "removecustom_err3":[
+        {"lang" : "english", "text" : "There is no custom command called +$"},
+        {"lang" : "turkish", "text" : "+$ adında bir özel komut yok"}
+    ],
+    "setbase":[
+        {"lang" : "english", "text" : "Base is changed to $"},
+        {"lang" : "turkish", "text" : "Para birimi $ olarak değiştirildi"}
+    ],
+    "setbase_err":[
+        {"lang" : "english", "text" : "There is no such base called $"},
+        {"lang" : "turkish", "text" : "$ para birimi mevcut değil"}
+    ],
+    "setbase_missingInfo":[
+        {"lang" : "english", "text" : "Please provide a currency"},
+        {"lang" : "turkish", "text" : "Bir kur birimi belirtin"}
+    ],
+    "getData_base_err":[
+        {"lang" : "english", "text" : "Base currency is $!"},
+        {"lang" : "turkish", "text" : "Tanımlı olan kur birimi zaten $!"}
+    ],
+    "record_err":[
+        {"lang" : "english", "text" : "This is not active for $"},
+        {"lang" : "turkish", "text" : "$ için henüz aktif değil"}
+    ],
+    "record_translates":[
+        {"lang" : "english", "text" : "Record: "},
+        {"lang" : "turkish", "text" : "Rekor: "}
+    ],
+    "calc_err":[
+        {"lang" : "english", "text" : "Maximum number should be: 1000000000000"},
+        {"lang" : "turkish", "text" : "Girilebilecek maksimum sayı: 1000000000000"}
+    ],
+    "embed_err":[
+        {"lang" : "english", "text" : "Can not send an embed message or react, make sure that I have permission"},
+        {"lang" : "turkish", "text" : "Gömülü (embed) mesaj gönderilemiyor ve ya reaksiyon eklenemiyor, yetkim olduğuna emin olun"}
+    ],
+    "cryptobase_err":[
+        {"lang" : "english", "text" : "We have no crosscurrency called $. Check `+currencies` for abbreviations"},
+        {"lang" : "turkish", "text" : "$ adında bir kur tanımlı değil. Kur kısaltmaları için `+kurlar`"}
+    ],
+    "cryptobase_err2":[
+        {"lang" : "english", "text" : "Cryptos are already shown in $"},
+        {"lang" : "turkish", "text" : "Kriptolar zaten $ olarak gösteriliyor"}
+    ],
+    "cryptobase_res":[
+        {"lang" : "english", "text" : "Cryptos will be show in $"},
+        {"lang" : "turkish", "text" : "Kriptolar artık $ bazında gösterilecek"}
+    ],
+    "cryptobase_none":[
+        {"lang" : "english", "text" : "Please provide a currency abbreviation after `+cryptos base`"},
+        {"lang" : "turkish", "text" : "Lütfen `+kriptolar kur` dan sonra bir kur adı belirtin"}
+    ]
+}

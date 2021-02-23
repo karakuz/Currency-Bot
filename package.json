@@ -1,0 +1,24 @@
+{
+  "name": "tdk-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.4.1",
+    "image-charts": "^5.6.17",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.16",
+    "puppeteer-extra-plugin-stealth": "^2.6.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "sharp": "^0.27.1",
+    "socket.io": "^3.0.5",
+    "ssl": "^1.0.0"
+  }
+}

@@ -1,0 +1,1109 @@
+{
+	"currencies": {
+		"TRY": [
+			{
+				"name": "USD",
+				"current": "7.2019",
+				"change": "%0,21:arrow_up_small:",
+				"highest": "8.5793"
+			},
+			{
+				"name": "EUR",
+				"current": "8.6770",
+				"change": "%0,17:arrow_up_small:",
+				"highest": "10.2011"
+			},
+			{
+				"name": "GBP",
+				"current": "9.8421",
+				"change": "%0,02:arrow_up_small:",
+				"highest": "0"
+			},
+			{
+				"name": "JPY",
+				"current": "6.8548",
+				"change": "%0,02:arrow_up_small:",
+				"highest": "0"
+			},
+			{
+				"name": "CNY",
+				"current": "1.1155",
+				"change": "%0,43:arrow_up_small:",
+				"highest": "0"
+			},
+			{
+				"name": "INR",
+				"current": "0.0988",
+				"change": "%0,53:arrow_up_small:",
+				"highest": "0"
+			},
+			{
+				"name": "RUB",
+				"current": "0.0945",
+				"change": "%0,13:arrow_up_small:",
+				"highest": "0"
+			}
+		],
+		"EUR": [
+			{
+				"name": "USD",
+				"current": "0.8303",
+				"change": "%0,01:arrow_up_small:"
+			},
+			{
+				"name": "GBP",
+				"current": "1.1350",
+				"change": "%0,04:arrow_up_small:"
+			},
+			{
+				"name": "JPY",
+				"current": "0.7911",
+				"change": "%0,04:arrow_up_small:"
+			},
+			{
+				"name": "CNY",
+				"current": "0.1286",
+				"change": "%0,37:arrow_up_small:"
+			},
+			{
+				"name": "INR",
+				"current": "0.0114",
+				"change": "%0,48:arrow_up_small:"
+			},
+			{
+				"name": "RUB",
+				"current": "0.0109",
+				"change": "%0,08:arrow_up_small:"
+			},
+			{
+				"name": "TRY",
+				"current": "0.1153",
+				"change": "%-0,03:small_red_triangle_down:"
+			}
+		],
+		"USD": [
+			{
+				"name": "EUR",
+				"current": "1.2044",
+				"change": "%0,02:arrow_up_small:"
+			},
+			{
+				"name": "GBP",
+				"current": "1.3668",
+				"change": "%0,02:arrow_up_small:"
+			},
+			{
+				"name": "JPY",
+				"current": "0.9528",
+				"change": "%0,04:arrow_up_small:"
+			},
+			{
+				"name": "CNY",
+				"current": "0.1548",
+				"change": "%0,17:arrow_up_small:"
+			},
+			{
+				"name": "INR",
+				"current": "0.0137",
+				"change": "%0,28:arrow_up_small:"
+			},
+			{
+				"name": "RUB",
+				"current": "0.0131",
+				"change": "%-0,12:small_red_triangle_down:"
+			},
+			{
+				"name": "TRY",
+				"current": "0.1389",
+				"change": "%-0,25:small_red_triangle_down:"
+			}
+		],
+		"GBP": [
+			{
+				"name": "USD",
+				"current": "0.7316",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "EUR",
+				"current": "0.8810",
+				"change": "%0,02:arrow_up_small:"
+			},
+			{
+				"name": "JPY",
+				"current": "0.0070",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "CNY",
+				"current": "0.1133",
+				"change": "%0,22:arrow_up_small:"
+			},
+			{
+				"name": "INR",
+				"current": "0.0100",
+				"change": "%0,29:arrow_up_small:"
+			},
+			{
+				"name": "RUB",
+				"current": "0.0096",
+				"change": "%-0,08:small_red_triangle_down:"
+			},
+			{
+				"name": "TRY",
+				"current": "0.1016",
+				"change": "%-0,19:small_red_triangle_down:"
+			}
+		],
+		"JPY": [
+			{
+				"name": "USD",
+				"current": "104.9650",
+				"change": "%-0,00:small_red_triangle_down:"
+			},
+			{
+				"name": "EUR",
+				"current": "126.4050",
+				"change": "%0,01:arrow_up_small:"
+			},
+			{
+				"name": "GBP",
+				"current": "143.4700",
+				"change": "%0,02:arrow_up_small:"
+			},
+			{
+				"name": "CNY",
+				"current": "16.2553",
+				"change": "%0,01:arrow_up_small:"
+			},
+			{
+				"name": "INR",
+				"current": "1.4394",
+				"change": "%0,01:arrow_up_small:"
+			},
+			{
+				"name": "RUB",
+				"current": "1.3771",
+				"change": "%-0,04:small_red_triangle_down:"
+			},
+			{
+				"name": "TRY",
+				"current": "14.5735",
+				"change": "%-0,02:small_red_triangle_down:"
+			}
+		],
+		"RUB": [
+			{
+				"name": "USD",
+				"current": "76.2240",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "EUR",
+				"current": "91.7129",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "GBP",
+				"current": "104.1870",
+				"change": "%0,10:arrow_up_small:"
+			},
+			{
+				"name": "JPY",
+				"current": "0.7262",
+				"change": "%0,04:arrow_up_small:"
+			},
+			{
+				"name": "CNY",
+				"current": "11.8054",
+				"change": "%0,29:arrow_up_small:"
+			},
+			{
+				"name": "INR",
+				"current": "1.0454",
+				"change": "%0,40:arrow_up_small:"
+			},
+			{
+				"name": "TRY",
+				"current": "10.5830",
+				"change": "%-0,13:small_red_triangle_down:"
+			}
+		],
+		"CNY": [
+			{
+				"name": "USD",
+				"current": "6.4567",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "EUR",
+				"current": "7.7765",
+				"change": "%0,05:arrow_up_small:"
+			},
+			{
+				"name": "GBP",
+				"current": "8.8251",
+				"change": "%0,05:arrow_up_small:"
+			},
+			{
+				"name": "JPY",
+				"current": "0.0615",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "INR",
+				"current": "0.0885",
+				"change": "%0,00:arrow_up_small:"
+			},
+			{
+				"name": "RUB",
+				"current": "0.0847",
+				"change": "%-0,29:small_red_triangle_down:"
+			},
+			{
+				"name": "TRY",
+				"current": "0.8964",
+				"change": "%-0,42:small_red_triangle_down:"
+			}
+		],
+		"INR": [
+			{
+				"name": "USD",
+				"current": "72.9160",
+				"change": "%0,02:arrow_up_small:"
+			},
+			{
+				"name": "EUR",
+				"current": "87.8200",
+				"change": "%0,05:arrow_up_small:"
+			},
+			{
+				"name": "GBP",
+				"current": "99.6620",
+				"change": "%0,05:arrow_up_small:"
+			},
+			{
+				"name": "JPY",
+				"current": "0.6946",
+				"change": "%0,03:arrow_up_small:"
+			},
+			{
+				"name": "CNY",
+				"current": "11.2931",
+				"change": "%-0,11:small_red_triangle_down:"
+			},
+			{
+				"name": "RUB",
+				"current": "0.9566",
+				"change": "%-0,39:small_red_triangle_down:"
+			},
+			{
+				"name": "TRY",
+				"current": "10.1200",
+				"change": "%-0,53:small_red_triangle_down:"
+			}
+		]
+	},
+	"cryptos": {
+		"BTC": {
+			"name": "Bitcoin",
+			"current": "$36,111.33",
+			"hourly": "%1.29",
+			"daily": "%7.83",
+			"weekly": "%11.60",
+			"market_cap": "$671,942,847,516"
+		},
+		"ETH": {
+			"name": "Ethereum",
+			"current": "$1,515.89",
+			"hourly": "%-1.16",
+			"daily": "%10.55",
+			"weekly": "%10.57",
+			"market_cap": "$173,798,295,091"
+		},
+		"USDT": {
+			"name": "Tether",
+			"current": "$1.00",
+			"hourly": "%-0.06",
+			"daily": "%0.08",
+			"weekly": "%0.04",
+			"market_cap": "$27,054,106,663"
+		},
+		"XRP": {
+			"name": "XRP",
+			"current": "$0.38",
+			"hourly": "%3.45",
+			"daily": "%2.21",
+			"weekly": "%40.49",
+			"market_cap": "$17,259,909,994"
+		},
+		"DOT": {
+			"name": "Polkadot",
+			"current": "$17.25",
+			"hourly": "%-1.07",
+			"daily": "%4.96",
+			"weekly": "%0.95",
+			"market_cap": "$15,630,775,475"
+		},
+		"ADA": {
+			"name": "Cardano",
+			"current": "$0.41",
+			"hourly": "%-3.71",
+			"daily": "%1.86",
+			"weekly": "%22.10",
+			"market_cap": "$13,009,333,795"
+		},
+		"LTC": {
+			"name": "Litecoin",
+			"current": "$149.73",
+			"hourly": "%3.53",
+			"daily": "%14.16",
+			"weekly": "%11.30",
+			"market_cap": "$9,928,586,970"
+		},
+		"LINK": {
+			"name": "Chainlink",
+			"current": "$23.65",
+			"hourly": "%-0.53",
+			"daily": "%3.09",
+			"weekly": "%2.34",
+			"market_cap": "$9,553,315,217"
+		},
+		"BCH": {
+			"name": "Bitcoin Cash",
+			"current": "$434.6",
+			"hourly": "%0.78",
+			"daily": "%4.95",
+			"weekly": "%1.39",
+			"market_cap": "$8,100,135,212"
+		},
+		"BNB": {
+			"name": "Binance Coin",
+			"current": "$51.58",
+			"hourly": "%0.68",
+			"daily": "%0.33",
+			"weekly": "%22.53",
+			"market_cap": "$7,965,980,646"
+		},
+		"XLM": {
+			"name": "Stellar",
+			"current": "$0.34",
+			"hourly": "%-0.81",
+			"daily": "%4.06",
+			"weekly": "%27.75",
+			"market_cap": "$7,462,987,152"
+		},
+		"USDC": {
+			"name": "USD Coin",
+			"current": "$1.00",
+			"hourly": "%0.06",
+			"daily": "%0.05",
+			"weekly": "%0.04",
+			"market_cap": "$5,908,022,332"
+		},
+		"UNI": {
+			"name": "Uniswap",
+			"current": "$18.82",
+			"hourly": "%-2.44",
+			"daily": "%-7.91",
+			"weekly": "%35.20",
+			"market_cap": "$5,442,937,848"
+		},
+		"DOGE": {
+			"name": "Dogecoin",
+			"current": "$0.03",
+			"hourly": "%3.05",
+			"daily": "%-4.78",
+			"weekly": "%302.41",
+			"market_cap": "$4,270,312,581"
+		},
+		"WBTC": {
+			"name": "Wrapped Bitcoin",
+			"current": "$36,147.84",
+			"hourly": "%1.26",
+			"daily": "%7.49",
+			"weekly": "%10.51",
+			"market_cap": "$4,252,904,287"
+		},
+		"AAVE": {
+			"name": "Aave",
+			"current": "$300.68",
+			"hourly": "%0.10",
+			"daily": "%1.71",
+			"weekly": "%9.52",
+			"market_cap": "$3,704,381,358"
+		},
+		"BSV": {
+			"name": "Bitcoin SV",
+			"current": "$181.14",
+			"hourly": "%0.10",
+			"daily": "%1.38",
+			"weekly": "%4.15",
+			"market_cap": "$3,377,197,036"
+		},
+		"EOS": {
+			"name": "EOS",
+			"current": "$3.03",
+			"hourly": "%0.55",
+			"daily": "%-0.81",
+			"weekly": "%15.07",
+			"market_cap": "$2,878,192,450"
+		},
+		"XMR": {
+			"name": "Monero",
+			"current": "$151.97",
+			"hourly": "%0.90",
+			"daily": "%5.97",
+			"weekly": "%10.77",
+			"market_cap": "$2,708,878,719"
+		},
+		"XEM": {
+			"name": "NEM",
+			"current": "$0.28",
+			"hourly": "%2.27",
+			"daily": "%6.07",
+			"weekly": "%15.15",
+			"market_cap": "$2,519,169,465"
+		},
+		"TRX": {
+			"name": "TRON",
+			"current": "$0.03",
+			"hourly": "%-0.05",
+			"daily": "%1.38",
+			"weekly": "%13.18",
+			"market_cap": "$2,392,282,765"
+		},
+		"XTZ": {
+			"name": "Tezos",
+			"current": "$2.9",
+			"hourly": "%-0.57",
+			"daily": "%-0.68",
+			"weekly": "%-0.28",
+			"market_cap": "$2,198,448,608"
+		},
+		"THETA": {
+			"name": "THETA",
+			"current": "$2.15",
+			"hourly": "%-0.31",
+			"daily": "%5.61",
+			"weekly": "%-5.57",
+			"market_cap": "$2,147,803,511"
+		},
+		"SNX": {
+			"name": "Synthetix",
+			"current": "$16.98",
+			"hourly": "%-1.97",
+			"daily": "%-3.44",
+			"weekly": "%0.56",
+			"market_cap": "$1,952,040,905"
+		},
+		"ATOM": {
+			"name": "Cosmos",
+			"current": "$8.8",
+			"hourly": "%-2.31",
+			"daily": "%-5.05",
+			"weekly": "%14.42",
+			"market_cap": "$1,845,910,903"
+		},
+		"VET": {
+			"name": "VeChain",
+			"current": "$0.03",
+			"hourly": "%-0.53",
+			"daily": "%-4.65",
+			"weekly": "%-4.50",
+			"market_cap": "$1,806,821,946"
+		},
+		"DAI": {
+			"name": "Dai",
+			"current": "$1.00",
+			"hourly": "%0.05",
+			"daily": "%0.02",
+			"weekly": "%0.08",
+			"market_cap": "$1,709,474,767"
+		},
+		"MKR": {
+			"name": "Maker",
+			"current": "$1,701.7",
+			"hourly": "%-0.70",
+			"daily": "%16.63",
+			"weekly": "%15.22",
+			"market_cap": "$1,693,779,535"
+		},
+		"NEO": {
+			"name": "Neo",
+			"current": "$23.64",
+			"hourly": "%0.47",
+			"daily": "%2.25",
+			"weekly": "%2.23",
+			"market_cap": "$1,668,040,385"
+		},
+		"COMP": {
+			"name": "Compound",
+			"current": "$350.58",
+			"hourly": "%-1.73",
+			"daily": "%-3.26",
+			"weekly": "%46.89",
+			"market_cap": "$1,609,232,268"
+		},
+		"SUSHI": {
+			"name": "SushiSwap",
+			"current": "$12.53",
+			"hourly": "%-3.11",
+			"daily": "%-3.54",
+			"weekly": "%54.56",
+			"market_cap": "$1,596,457,505"
+		},
+		"CRO": {
+			"name": "Crypto.com Coin",
+			"current": "$0.06",
+			"hourly": "%0.48",
+			"daily": "%2.67",
+			"weekly": "%-11.07",
+			"market_cap": "$1,444,141,247"
+		},
+		"BUSD": {
+			"name": "Binance USD",
+			"current": "$1.00",
+			"hourly": "%0.01",
+			"daily": "%0.01",
+			"weekly": "%0.01",
+			"market_cap": "$1,408,976,418"
+		},
+		"HT": {
+			"name": "Huobi Token",
+			"current": "$7.04",
+			"hourly": "%1.28",
+			"daily": "%3.27",
+			"weekly": "%23.81",
+			"market_cap": "$1,374,452,743"
+		},
+		"SOL": {
+			"name": "Solana",
+			"current": "$5.21",
+			"hourly": "%-1.39",
+			"daily": "%11.96",
+			"weekly": "%28.80",
+			"market_cap": "$1,364,779,132"
+		},
+		"LEO": {
+			"name": "UNUS SED LEO",
+			"current": "$1.31",
+			"hourly": "%0.24",
+			"daily": "%0.05",
+			"weekly": "%-0.88",
+			"market_cap": "$1,304,820,240"
+		},
+		"FTT": {
+			"name": "FTX Token",
+			"current": "$12.89",
+			"hourly": "%0.43",
+			"daily": "%8.70",
+			"weekly": "%25.67",
+			"market_cap": "$1,216,452,241"
+		},
+		"MIOTA": {
+			"name": "IOTA",
+			"current": "$0.43",
+			"hourly": "%0.86",
+			"daily": "%4.34",
+			"weekly": "%0.41",
+			"market_cap": "$1,204,392,133"
+		},
+		"LUNA": {
+			"name": "Terra",
+			"current": "$2.45",
+			"hourly": "%8.60",
+			"daily": "%37.67",
+			"weekly": "%95.31",
+			"market_cap": "$1,198,595,991"
+		},
+		"CEL": {
+			"name": "Celsius",
+			"current": "$4.9",
+			"hourly": "%-0.32",
+			"daily": "%3.02",
+			"weekly": "%-3.11",
+			"market_cap": "$1,169,803,944"
+		},
+		"DASH": {
+			"name": "Dash",
+			"current": "$112.64",
+			"hourly": "%2.97",
+			"daily": "%8.95",
+			"weekly": "%7.50",
+			"market_cap": "$1,121,049,192"
+		},
+		"EGLD": {
+			"name": "Elrond",
+			"current": "$64.27",
+			"hourly": "%-0.04",
+			"daily": "%-3.13",
+			"weekly": "%33.03",
+			"market_cap": "$1,084,862,574"
+		},
+		"FIL": {
+			"name": "Filecoin",
+			"current": "$22.49",
+			"hourly": "%-0.20",
+			"daily": "%-0.79",
+			"weekly": "%1.28",
+			"market_cap": "$1,078,747,816"
+		},
+		"ZEC": {
+			"name": "Zcash",
+			"current": "$93.28",
+			"hourly": "%0.65",
+			"daily": "%5.60",
+			"weekly": "%7.53",
+			"market_cap": "$1,030,999,874"
+		},
+		"AVAX": {
+			"name": "Avalanche",
+			"current": "$13.28",
+			"hourly": "%-0.69",
+			"daily": "%0.12",
+			"weekly": "%8.95",
+			"market_cap": "$1,021,929,151"
+		},
+		"REV": {
+			"name": "Revain",
+			"current": "$0.01",
+			"hourly": "%-0.02",
+			"daily": "%0.21",
+			"weekly": "%-0.01",
+			"market_cap": "$994,566,668"
+		},
+		"YFI": {
+			"name": "yearn.finance",
+			"current": "$33,084.96",
+			"hourly": "%2.99",
+			"daily": "%6.78",
+			"weekly": "%8.67",
+			"market_cap": "$992,199,084"
+		},
+		"GRT": {
+			"name": "The Graph",
+			"current": "$0.75",
+			"hourly": "%-0.30",
+			"daily": "%-4.55",
+			"weekly": "%37.56",
+			"market_cap": "$935,681,867"
+		},
+		"ETC": {
+			"name": "Ethereum Classic",
+			"current": "$7.79",
+			"hourly": "%0.00",
+			"daily": "%3.49",
+			"weekly": "%4.54",
+			"market_cap": "$906,323,709"
+		},
+		"KSM": {
+			"name": "Kusama",
+			"current": "$105.94",
+			"hourly": "%0.20",
+			"daily": "%4.81",
+			"weekly": "%3.98",
+			"market_cap": "$896,953,071"
+		},
+		"DCR": {
+			"name": "Decred",
+			"current": "$67.47",
+			"hourly": "%0.07",
+			"daily": "%0.92",
+			"weekly": "%16.91",
+			"market_cap": "$847,250,476"
+		},
+		"UMA": {
+			"name": "UMA",
+			"current": "$15.17",
+			"hourly": "%-0.66",
+			"daily": "%34.31",
+			"weekly": "%37.49",
+			"market_cap": "$845,225,637"
+		},
+		"ZIL": {
+			"name": "Zilliqa",
+			"current": "$0.08",
+			"hourly": "%-0.27",
+			"daily": "%1.27",
+			"weekly": "%12.21",
+			"market_cap": "$830,107,919"
+		},
+		"ALGO": {
+			"name": "Algorand",
+			"current": "$0.65",
+			"hourly": "%-0.96",
+			"daily": "%1.14",
+			"weekly": "%8.53",
+			"market_cap": "$814,683,736"
+		},
+		"WAVES": {
+			"name": "Waves",
+			"current": "$6.91",
+			"hourly": "%0.13",
+			"daily": "%-1.46",
+			"weekly": "%1.39",
+			"market_cap": "$719,649,145"
+		},
+		"NEAR": {
+			"name": "NEAR Protocol",
+			"current": "$2.41",
+			"hourly": "%-3.39",
+			"daily": "%8.13",
+			"weekly": "%1.50",
+			"market_cap": "$659,867,703"
+		},
+		"HBAR": {
+			"name": "Hedera Hashgraph",
+			"current": "$0.09",
+			"hourly": "%-0.97",
+			"daily": "%2.93",
+			"weekly": "%2.12",
+			"market_cap": "$657,203,514"
+		},
+		"REN": {
+			"name": "Ren",
+			"current": "$0.66",
+			"hourly": "%-1.54",
+			"daily": "%4.73",
+			"weekly": "%9.88",
+			"market_cap": "$647,397,435"
+		},
+		"LRC": {
+			"name": "Loopring",
+			"current": "$0.53",
+			"hourly": "%-1.83",
+			"daily": "%-0.13",
+			"weekly": "%22.29",
+			"market_cap": "$642,793,623"
+		},
+		"RUNE": {
+			"name": "THORChain",
+			"current": "$3.78",
+			"hourly": "%0.49",
+			"daily": "%-8.85",
+			"weekly": "%56.72",
+			"market_cap": "$598,245,774"
+		},
+		"CHSB": {
+			"name": "SwissBorg",
+			"current": "$0.64",
+			"hourly": "%-1.08",
+			"daily": "%8.64",
+			"weekly": "%63.63",
+			"market_cap": "$598,015,843"
+		},
+		"VGX": {
+			"name": "Voyager Token",
+			"current": "$2.66",
+			"hourly": "%-3.77",
+			"daily": "%-2.90",
+			"weekly": "%186.84",
+			"market_cap": "$592,247,441"
+		},
+		"RENBTC": {
+			"name": "renBTC",
+			"current": "$36,161.74",
+			"hourly": "%1.25",
+			"daily": "%7.73",
+			"weekly": "%10.71",
+			"market_cap": "$578,950,293"
+		},
+		"NEXO": {
+			"name": "Nexo",
+			"current": "$1.01",
+			"hourly": "%0.57",
+			"daily": "%11.14",
+			"weekly": "%39.16",
+			"market_cap": "$565,162,138"
+		},
+		"CELO": {
+			"name": "Celo",
+			"current": "$3.1",
+			"hourly": "%9.04",
+			"daily": "%9.12",
+			"weekly": "%-0.06",
+			"market_cap": "$575,333,286"
+		},
+		"OMG": {
+			"name": "OMG Network",
+			"current": "$3.91",
+			"hourly": "%-0.91",
+			"daily": "%-6.16",
+			"weekly": "%12.86",
+			"market_cap": "$549,069,562"
+		},
+		"HEDG": {
+			"name": "HedgeTrade",
+			"current": "$1.55",
+			"hourly": "%0.71",
+			"daily": "%2.93",
+			"weekly": "%-4.01",
+			"market_cap": "$538,892,095"
+		},
+		"CRV": {
+			"name": "Curve DAO Token",
+			"current": "$2.47",
+			"hourly": "%-0.22",
+			"daily": "%-3.04",
+			"weekly": "%16.59",
+			"market_cap": "$512,517,542"
+		},
+		"ZRX": {
+			"name": "0x",
+			"current": "$0.67",
+			"hourly": "%0.22",
+			"daily": "%-2.07",
+			"weekly": "%23.77",
+			"market_cap": "$504,210,485"
+		},
+		"1INCH": {
+			"name": "1inch",
+			"current": "$4.72",
+			"hourly": "%1.25",
+			"daily": "%-5.41",
+			"weekly": "%74.00",
+			"market_cap": "$504,773,015"
+		},
+		"ONT": {
+			"name": "Ontology",
+			"current": "$0.62",
+			"hourly": "%-0.16",
+			"daily": "%4.51",
+			"weekly": "%6.48",
+			"market_cap": "$498,319,612"
+		},
+		"NANO": {
+			"name": "Nano",
+			"current": "$3.54",
+			"hourly": "%-0.09",
+			"daily": "%0.01",
+			"weekly": "%10.24",
+			"market_cap": "$471,040,004"
+		},
+		"BAT": {
+			"name": "Basic Attention Token",
+			"current": "$0.32",
+			"hourly": "%-1.02",
+			"daily": "%-1.15",
+			"weekly": "%4.27",
+			"market_cap": "$463,903,432"
+		},
+		"ICX": {
+			"name": "ICON",
+			"current": "$0.79",
+			"hourly": "%1.06",
+			"daily": "%3.14",
+			"weekly": "%-11.08",
+			"market_cap": "$462,772,119"
+		},
+		"QNT": {
+			"name": "Quant",
+			"current": "$38.13",
+			"hourly": "%-2.76",
+			"daily": "%10.57",
+			"weekly": "%76.45",
+			"market_cap": "$460,648,719"
+		},
+		"HUSD": {
+			"name": "HUSD",
+			"current": "$1.00",
+			"hourly": "%-0.07",
+			"daily": "%-0.02",
+			"weekly": "%-0.14",
+			"market_cap": "$458,088,040"
+		},
+		"DGB": {
+			"name": "DigiByte",
+			"current": "$0.03",
+			"hourly": "%-1.41",
+			"daily": "%5.19",
+			"weekly": "%26.67",
+			"market_cap": "$429,885,490"
+		},
+		"BTT": {
+			"name": "BitTorrent",
+			"current": "$0.00",
+			"hourly": "%3.84",
+			"daily": "%13.21",
+			"weekly": "%18.59",
+			"market_cap": "$425,569,649"
+		},
+		"SC": {
+			"name": "Siacoin",
+			"current": "$0.01",
+			"hourly": "%1.61",
+			"daily": "%20.63",
+			"weekly": "%97.72",
+			"market_cap": "$398,667,025"
+		},
+		"TUSD": {
+			"name": "TrueUSD",
+			"current": "$1.00",
+			"hourly": "%-0.02",
+			"daily": "%-0.06",
+			"weekly": "%0.00",
+			"market_cap": "$380,314,500"
+		},
+		"RSR": {
+			"name": "Reserve Rights",
+			"current": "$0.04",
+			"hourly": "%-1.35",
+			"daily": "%9.27",
+			"weekly": "%10.65",
+			"market_cap": "$378,220,032"
+		},
+		"ZEN": {
+			"name": "Horizen",
+			"current": "$35.05",
+			"hourly": "%0.04",
+			"daily": "%-3.26",
+			"weekly": "%7.31",
+			"market_cap": "$375,847,888"
+		},
+		"FTM": {
+			"name": "Fantom",
+			"current": "$0.14",
+			"hourly": "%7.90",
+			"daily": "%27.63",
+			"weekly": "%89.85",
+			"market_cap": "$351,852,838"
+		},
+		"OKB": {
+			"name": "OKB",
+			"current": "$5.99",
+			"hourly": "%2.15",
+			"daily": "%3.63",
+			"weekly": "%7.11",
+			"market_cap": "$360,251,507"
+		},
+		"STX": {
+			"name": "Stacks",
+			"current": "$0.47",
+			"hourly": "%1.66",
+			"daily": "%6.01",
+			"weekly": "%-0.58",
+			"market_cap": "$347,062,218"
+		},
+		"QTUM": {
+			"name": "Qtum",
+			"current": "$3.5",
+			"hourly": "%-1.79",
+			"daily": "%0.68",
+			"weekly": "%1.76",
+			"market_cap": "$341,247,965"
+		},
+		"ALPHA": {
+			"name": "Alpha Finance Lab",
+			"current": "$1.89",
+			"hourly": "%-1.40",
+			"daily": "%-8.49",
+			"weekly": "%30.79",
+			"market_cap": "$330,101,080"
+		},
+		"ENJ": {
+			"name": "Enjin Coin",
+			"current": "$0.35",
+			"hourly": "%0.37",
+			"daily": "%3.30",
+			"weekly": "%-18.79",
+			"market_cap": "$294,298,272"
+		},
+		"KNC": {
+			"name": "Kyber Network",
+			"current": "$1.42",
+			"hourly": "%0.81",
+			"daily": "%1.47",
+			"weekly": "%7.70",
+			"market_cap": "$290,913,538"
+		},
+		"AMPL": {
+			"name": "Ampleforth",
+			"current": "$1.35",
+			"hourly": "%-4.94",
+			"daily": "%-10.68",
+			"weekly": "%25.53",
+			"market_cap": "$285,599,641"
+		},
+		"XVG": {
+			"name": "Verge",
+			"current": "$0.02",
+			"hourly": "%1.60",
+			"daily": "%-3.99",
+			"weekly": "%46.03",
+			"market_cap": "$275,878,701"
+		},
+		"IOST": {
+			"name": "IOST",
+			"current": "$0.02",
+			"hourly": "%-1.18",
+			"daily": "%1.85",
+			"weekly": "%-2.54",
+			"market_cap": "$269,176,006"
+		},
+		"UST": {
+			"name": "TerraUSD",
+			"current": "$1.03",
+			"hourly": "%-0.17",
+			"daily": "%0.38",
+			"weekly": "%3.00",
+			"market_cap": "$268,491,482"
+		},
+		"CAKE": {
+			"name": "PancakeSwap",
+			"current": "$2.49",
+			"hourly": "%3.63",
+			"daily": "%-13.08",
+			"weekly": "%104.89",
+			"market_cap": "$263,634,675"
+		},
+		"FUN": {
+			"name": "FunFair",
+			"current": "$0.04",
+			"hourly": "%3.54",
+			"daily": "%-2.09",
+			"weekly": "%115.99",
+			"market_cap": "$252,570,807"
+		},
+		"MANA": {
+			"name": "Decentraland",
+			"current": "$0.17",
+			"hourly": "%-2.78",
+			"daily": "%4.47",
+			"weekly": "%-2.20",
+			"market_cap": "$249,863,537"
+		},
+		"BTCB": {
+			"name": "Bitcoin BEP2",
+			"current": "$36,232.4",
+			"hourly": "%1.57",
+			"daily": "%8.66",
+			"weekly": "%10.56",
+			"market_cap": "$249,626,450"
+		},
+		"BNT": {
+			"name": "Bancor",
+			"current": "$2.05",
+			"hourly": "%-0.57",
+			"daily": "%4.33",
+			"weekly": "%7.77",
+			"market_cap": "$243,891,547"
+		},
+		"PAX": {
+			"name": "Paxos Standard",
+			"current": "$1.00",
+			"hourly": "%-0.05",
+			"daily": "%0.20",
+			"weekly": "%0.00",
+			"market_cap": "$244,708,603"
+		},
+		"OCEAN": {
+			"name": "Ocean Protocol",
+			"current": "$0.57",
+			"hourly": "%0.47",
+			"daily": "%-0.21",
+			"weekly": "%-5.20",
+			"market_cap": "$238,689,417"
+		}
+	}
+}

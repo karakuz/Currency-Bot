@@ -1,0 +1,18 @@
+{
+    "english" : [
+        { "name": "status", "value": "Current Bot Status" },
+        { "name": "setlanguage [language]", "value": "Change Language\n(Ex: +setlanguage turkish)" },
+        { "name": "languages", "value": "Supported Languages" },
+        { "name": "currencies", "value": "Currency commands" },
+        { "name": "cryptos", "value": "Cryptocurrency commands" },
+        { "name": "setbase", "value": "Change base currency \nEx: `+setbase usd`" }
+    ],
+    "turkish" : [
+        { "name": "durum", "value": "Güncel Bot Durumu" },
+        { "name": "dildegis [dil]", "value": "Dil Değiştir" },
+        { "name": "diller", "value": "Desteklenen Diller" },
+        { "name": "kurlar", "value": "Kur komutları" },
+        { "name": "kriptolar", "value": "Kur komutları" },
+        { "name": "kurdegis", "value": "Kur birimini değiş \nÖrn: `+kurdegis try`" }
+    ]
+}

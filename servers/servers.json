@@ -1,0 +1,1887 @@
+{
+	"315445287374028800": {
+		"name": "Team Dark Knight",
+		"lang": "english",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"632621436015738881": {
+		"name": "!Kalifat Arturii Walecznej!",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"662729714456330261": {
+		"name": "702",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"716445624517656727": {
+		"name": "Blist",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"716989813827436665": {
+		"name": "e_borsa.com.tr",
+		"lang": "turkish",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"727842715450212442": {
+		"name": "Test Server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"754628908493570110": {
+		"name": "Arturia by Zyczu",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"757621262167048279": {
+		"name": "Boomer Battalion",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [
+			{
+				"command": "bullseye",
+				"text": "https://cdn.discordapp.com/attachments/618799872073793536/718794900120010772/image1.jpg"
+			}
+		],
+		"crypto_base": "USD"
+	},
+	"770647005432905779": {
+		"name": "Alex's Discord Server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"771133090004205578": {
+		"name": "NoNoSect",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"775699584382271488": {
+		"name": "Currency Bot",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"781161209755729960": {
+		"name": "GAMER",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"781947855459713024": {
+		"name": "ARTURIA WALECZNA",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"788105769139568660": {
+		"name": "𝗞𝗶𝗻𝗴-𝗦𝗲𝗿𝘃𝗲𝗿",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"791872016592142337": {
+		"name": "Akaxionda",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"792148943634825236": {
+		"name": "Gaming club",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"793579246869544990": {
+		"name": "𝕆𝕪𝕦𝕟",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"793928710134562878": {
+		"name": "bot fun ig",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"794059237193285652": {
+		"name": "Depressed_Steven_Universe's Residence",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"737714786711896125": {
+		"name": "Disforge Bots",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"782322888156905502": {
+		"name": "bot testing server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"756108910779301908": {
+		"name": "Astro Bot List",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"645281161949741064": {
+		"name": "BladeBotList.xyz",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"524979556122230804": {
+		"name": "GameRoll",
+		"lang": "turkish",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795033046066790491": {
+		"name": "I will add every bot in the WORLD 🌍",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"755032961874788483": {
+		"name": "00",
+		"lang": "turkish",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"789915299029188628": {
+		"name": "Server von Johndude69",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"794912935931019304": {
+		"name": "Alert Nation",
+		"lang": "english",
+		"base_currency": "GBP",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"790589165334167552": {
+		"name": "test server",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"726940545963917422": {
+		"name": "Comunidad de Carlos Ferreras",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795636199062503427": {
+		"name": "Сервер romaguera.bruce",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795631757747552256": {
+		"name": "DogeCoin & Crypto Talk! 🌙🤑💰🚀",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"772559068233072640": {
+		"name": "Turbo Chemtank",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795651911125696512": {
+		"name": "Magyar Crypto Community",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"792418054617169950": {
+		"name": "El-Patron Botlist #0.6K",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"745739686097453218": {
+		"name": "𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑'𝐒 𝐖𝐀𝐑",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"779453207532273726": {
+		"name": "Zach's Wealth Management (ZWM)",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"450594207787384832": {
+		"name": "Advertise Your Bot",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795113744539451392": {
+		"name": "Shawerma Gaming",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796626092772687902": {
+		"name": "server",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"784120280855478313": {
+		"name": "11/B Sınıf Sunucusu",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"781557361869324309": {
+		"name": "FBI OPEN UP",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"322446421280423958": {
+		"name": "Triggermen",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796834633617768509": {
+		"name": "MHM.gg - Cryptocurrency Tracking",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"558336030114054155": {
+		"name": "Speech Impediment",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796713194633953342": {
+		"name": "Developers",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"449730627835527178": {
+		"name": "kratos.biz",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796850001270669392": {
+		"name": "Frankfurtstraßenwetten",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"699732172789252553": {
+		"name": "XakOnTrack",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797165709410566176": {
+		"name": "BOTLİST SERV",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"790183702528393217": {
+		"name": "Yolunda A.Ş",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"387812458661937152": {
+		"name": "botlist.space",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797518145971290132": {
+		"name": "CARDANO GANG",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"699620091817361515": {
+		"name": "MIRMIR TEAM",
+		"lang": "turkish",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"791455617759051797": {
+		"name": "Most bots in one discord server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796549687082614814": {
+		"name": "𝘚𝘔𝘜𝘙𝘒𝘐𝘖++! 🛩",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"228628323092267008": {
+		"name": "STOCK UNLOCKED",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797713983343689788": {
+		"name": "Fratboys",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797784614692585473": {
+		"name": "500 bot",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795061868963954738": {
+		"name": "Crypto Survivors",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797838130060460052": {
+		"name": "Grow Up📈",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797615341739966494": {
+		"name": "high rascality",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"628651374082523147": {
+		"name": "testServ",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"647320650020683805": {
+		"name": "server of sawada",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797356258340372481": {
+		"name": "miraç sefa kullanıcısının sunucusu",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"614402019503112193": {
+		"name": "Pokémen",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797291100506685470": {
+		"name": "jayden6fn's",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"663819400314486803": {
+		"name": "Kripto Analiz",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"736729111837409351": {
+		"name": "KTK Discord - Sk/Cz",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"791720530855592006": {
+		"name": "Bot List",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796411762445385738": {
+		"name": "This Team is Awesome [20-21]",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"196439401314779136": {
+		"name": "BLACKPINK",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"696443050498457640": {
+		"name": "Lapsekili Tayfur",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"778405395893977100": {
+		"name": "Crypto World",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798270916886528010": {
+		"name": "💣Despair 💣",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"785852703825330176": {
+		"name": "test",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"794110487985389590": {
+		"name": "「 0TF 」",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"749986749698146335": {
+		"name": "Мерак Меана",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798342020719706154": {
+		"name": "RAG Global",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"374071874222686211": {
+		"name": "Bots For Discord",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796784902892421192": {
+		"name": "Drugies",
+		"lang": "turkish",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796418482022645850": {
+		"name": "First VSA Bot For Bitmex",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798149087836110898": {
+		"name": "Crypto Caldas",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"798336665772228609": {
+		"name": "⫸ 𝓡𝓮𝓷-𝓗𝓪𝓲 𝓒𝓲𝓽𝔂 ⫷",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"733453586129879092": {
+		"name": "Cooklo's FNF",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"778038215667220482": {
+		"name": "𝐸𝓉𝒽𝒾'𝓈 𝒞𝒶𝓋𝑒",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"698986747769389187": {
+		"name": "the norwich bando",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798863436896534539": {
+		"name": "{bitcoin a pod}",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"617146839027679243": {
+		"name": "Cursed Flex Zone",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"779358917780176896": {
+		"name": "The New Galactic Republic.",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799000726755475507": {
+		"name": "Serwer użytkownika dbotdev",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"646196239767175178": {
+		"name": "♡ blush",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"740250627044671559": {
+		"name": "La cueva",
+		"lang": "turkish",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798774023990280282": {
+		"name": "Private Environment",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799170909385523240": {
+		"name": "Future",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"779452019903299594": {
+		"name": "ZoniaxPunk",
+		"lang": "turkish",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799275041119535144": {
+		"name": "Fréros Invest",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"380112100472913921": {
+		"name": "PapatzoGaming",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"783752099405234196": {
+		"name": "CryptoAnalysis",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799357463845142529": {
+		"name": "Wyert's Script Server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"761590515795755048": {
+		"name": "Cvakavci",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"778161152634781698": {
+		"name": "Slave to Beast",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"709928900183982110": {
+		"name": "beramastar khaganate",
+		"lang": "turkish",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"692148055767515196": {
+		"name": "Memes server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"786256912387407932": {
+		"name": "Minecraft Chat",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"792346663582171137": {
+		"name": "Crypto Vagon",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798828028850470922": {
+		"name": "Community Server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799411237699059713": {
+		"name": "Super Hodl Bros",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798615761253695539": {
+		"name": "Bali Office",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"620329234396741632": {
+		"name": "EWOK ESPORTS",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795668497605984306": {
+		"name": "WeedFamily.cz | Official",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796056275808550942": {
+		"name": "Imperium Barlasium 🏰👑",
+		"lang": "english",
+		"base_currency": "TRY",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"684582059603132488": {
+		"name": "MO MONEY MO PROBLEMS",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796682532972134400": {
+		"name": "BombSquad Poopcode Smash",
+		"lang": "english",
+		"base_currency": "INR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"757155770746929234": {
+		"name": "𝐌𝐚𝐥𝐮𝐧𝐠𝐠𝐚𝐲",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"420963248796598295": {
+		"name": "Krakers Community",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799693461166489671": {
+		"name": "🔥𝖍𝖊𝖑𝖑🔥",
+		"lang": "turkish",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"787447492420829295": {
+		"name": "The Empire",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800061382690471948": {
+		"name": "FX-ProTraders",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"696896760240406559": {
+		"name": "Heaven's Glyph",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"477143946246488086": {
+		"name": "SALA DE JUEGOS",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"771435673499598848": {
+		"name": "Tiki Hut Cafe",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"477650075212972054": {
+		"name": "headband",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800204077115506748": {
+		"name": "Le'Crypto Session",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798445440542572564": {
+		"name": "4.T.R.A.D",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"202564942325350400": {
+		"name": "I'll tell you when to stop",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798896883538985000": {
+		"name": "Bromosexuals",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"662585350807617553": {
+		"name": "Exotic Lounge | Social & Anime",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800344252872916992": {
+		"name": "Tenta Killers",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797131573627584583": {
+		"name": "neko cafe clone",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"296090326677061633": {
+		"name": "MancoGaming",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"549398644747403266": {
+		"name": "BOT TEST ALPHA",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795586687995871243": {
+		"name": "Crypto Sohbetleri",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"793709065246343169": {
+		"name": "MR.BEST",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"785881785421922344": {
+		"name": "test server swarm",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"783061168205725776": {
+		"name": "Anterris",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800205030309232671": {
+		"name": "Investors Investin'",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800662347210293318": {
+		"name": "ders grubum",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"796807862093479956": {
+		"name": "deshing ramesh sentar",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"786268378397540352": {
+		"name": "DAMMIT",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800715866463272991": {
+		"name": "🎲LUCKY&TABLE🎲",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800776056247943198": {
+		"name": "Altai Traders",
+		"lang": "turkish",
+		"base_currency": "TRY",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"773490520005017610": {
+		"name": "SlickyNicky's Dungeon",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800672753622843422": {
+		"name": "Crypto Club",
+		"lang": "english",
+		"base_currency": "GBP",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"641491892252442650": {
+		"name": "Market Moves",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800460868360863764": {
+		"name": "The Society Main 👑",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"741528775241629706": {
+		"name": "JayMCMXCIV's server",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800822975851003975": {
+		"name": "SS TAKIMI",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"643767161797476362": {
+		"name": "PORTFOLIO BAC1-2 IR",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"732589878285697084": {
+		"name": "K7💰",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"797408299100012564": {
+		"name": "Zebi Le Vatican",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"716959877045551125": {
+		"name": "Casino Prusco",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801132035905028116": {
+		"name": "Skin Money",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800667301287690271": {
+		"name": "ABSalp Gamer",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"777767008997343333": {
+		"name": "The Boys",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"696440383240142980": {
+		"name": "Sunucu69 e-sports",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"488394916628660244": {
+		"name": "Lipton nie łiski",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800647541019377695": {
+		"name": "MINAT",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"801129333484683284": {
+		"name": "봇 초대 테스트",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"781771396245880873": {
+		"name": "ALFALAR TARİKATI",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"277728905413132288": {
+		"name": "Fun Play",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"669100731172782081": {
+		"name": "Gaming 100% Squad | BETA",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"789420527064317992": {
+		"name": "Aandelenwereld",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801117497553715201": {
+		"name": "Qeuyx",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801301650077122621": {
+		"name": "Despair Foundation",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"795273733496373258": {
+		"name": "Deserve's server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"494014559317655562": {
+		"name": "♣MagnificentPlayers♣",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"772521080548098068": {
+		"name": "💸 MARKET X",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801000715598168085": {
+		"name": "NARWHALE",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801524072462811166": {
+		"name": "NATO",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801440629715894293": {
+		"name": "hidden",
+		"lang": "english",
+		"base_currency": "GBP",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"690653588862795867": {
+		"name": "Andernacher Schenke",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"308337874665734144": {
+		"name": "The Cult",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"140954925814382592": {
+		"name": "Hubris",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"240924887621959681": {
+		"name": "Zabrielusto",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801674882261319690": {
+		"name": "Cold War Modded Lobbies",
+		"lang": "english",
+		"base_currency": "GBP",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "GBP"
+	},
+	"543781661612048389": {
+		"name": "Kapellner-Hänger",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"737116579950624869": {
+		"name": "test stuff",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"798663502737965109": {
+		"name": "Money Makin Monopoly Men",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801784949879341086": {
+		"name": "Stonks.ytd",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801024836226383882": {
+		"name": "Bot's Paradise🎅🏻",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"553241878405840896": {
+		"name": "eToro™ Zero Commission Trading",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801873166321975346": {
+		"name": "Brown Brown Cow",
+		"lang": "english",
+		"base_currency": "GBP",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "GBP"
+	},
+	"801983731137118218": {
+		"name": "Serveur de ᄊﾉᄊㄎԾ",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"792852320445923359": {
+		"name": "kerem mustafa hasan kullanıcısının sunucusu",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802096607897321513": {
+		"name": "PAYAMAN",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"763903802331758593": {
+		"name": "Clan Vizsla",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800777640654798878": {
+		"name": "CU Crypto",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"745570853017747458": {
+		"name": "Incels.me",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"689239690385293321": {
+		"name": "KTM",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802263026409406514": {
+		"name": "HyprAlex",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"771435017976545300": {
+		"name": "alit lasha jr help server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802398516642185259": {
+		"name": "test",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799418058477010986": {
+		"name": "APeX Karliyone İnformation POOL",
+		"lang": "english",
+		"base_currency": "TRY",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"355761711149744133": {
+		"name": "Vrais frérots",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802525063172587560": {
+		"name": "berschum's server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"735077109730377810": {
+		"name": "The Official /lit/-Literature",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"782231656156889099": {
+		"name": "The Official /biz/ - Business & Finance",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"770257719054565416": {
+		"name": "peakyblinders GHL",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"549417854051549203": {
+		"name": "It is discord my dudes",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"788207245149077544": {
+		"name": "Alpha Services",
+		"lang": "english",
+		"base_currency": "USD",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802755508121501737": {
+		"name": "JustServer﹏﹏◠◡🍫",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802704323376185444": {
+		"name": "!A-Peeling",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"224472633872351232": {
+		"name": "boş işler",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"765766147105620038": {
+		"name": "Gamemasher2160 prison escape",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802264333538033734": {
+		"name": "Crypto Freaks",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"691270585422184449": {
+		"name": "🌐P'tits Nouveaux",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "EUR"
+	},
+	"707563195774009485": {
+		"name": "Shadow Community",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"358974451632832514": {
+		"name": "이걸 읽는 사람은 뚱뚱하다",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"508726584086364170": {
+		"name": "Astroworld",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801836773323177984": {
+		"name": "Alaskan Bull Worm",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"803362788096999446": {
+		"name": "Florian's investments",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "1",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"803433266215780382": {
+		"name": "[ETS 2 Grubu]",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"803379928367890462": {
+		"name": "Just Growing Server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"801111241707618377": {
+		"name": "|𝐑𝐄𝐁𝐄𝐋𝐒|",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802462459293728780": {
+		"name": "Crypto",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"769194480359178281": {
+		"name": "👉 AGALAR 👈",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797226982114852874": {
+		"name": "Vibe",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"804409621095514179": {
+		"name": "Qasa Exchange",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"765590188927614997": {
+		"name": "Silv in the area skrrrrr",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"804396325054447636": {
+		"name": "Crypto/Stock Talk",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"784365387189714965": {
+		"name": "THE FROWER",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"797313493334229023": {
+		"name": "Cryptitos of Manila",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"800727087458680852": {
+		"name": "bestmove",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"803681871824814091": {
+		"name": "EGEMEN UYSAL30 yedek sunucu",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"804000803513434193": {
+		"name": "Crypto Craze",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"799701364040138822": {
+		"name": "Bceal Bot List",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"803470553608486924": {
+		"name": "Discounts fast",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"232440808706539531": {
+		"name": "v3ct0rsTV",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"802287398838599721": {
+		"name": "BotsTest",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"804341393941463123": {
+		"name": "Vortixin | Stocks & Crypto Community",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"720175901387522079": {
+		"name": "Old bot server",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"772451072529793054": {
+		"name": "1400",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"521269118666539009": {
+		"name": "Seizure Salad",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	},
+	"504359897564184586": {
+		"name": "bot",
+		"lang": "english",
+		"base_currency": "EUR",
+		"satellites": "0",
+		"custom_commands": [],
+		"crypto_base": "USD"
+	}
+}
