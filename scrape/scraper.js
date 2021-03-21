@@ -61,13 +61,13 @@ let bloomberg = async function(){
                 data["currencies"][0].highest = newDolarPeak;
                 let msg = `USD/TRY - Yeni Rekor : ${dataDolarPeak} --> ${functions.now()}`;
                 console.log(msg);
-                client.channels.cache.get('772926756704878603').send(msg);//loop
+                client.channels.cache.get('823272473218777149').send(msg);//loop
             }
             if(parseFloat(newEuroPeak)>parseFloat(dataEuroPeak)){
                 data["currencies"][1].highest = newEuroPeak;
                 let msg = `EUR/TRY - Yeni Rekor : ${dataEuroPeak} --> ${functions.now()}`;
                 console.log(msg);
-                client.channels.cache.get('772926756704878603').send(msg);//loop
+                client.channels.cache.get('823272473218777149').send(msg);//loop
             }
 
             var query;
