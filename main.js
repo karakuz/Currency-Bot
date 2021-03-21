@@ -14,7 +14,7 @@ client.on('ready', () => {
     console.log("Bot ready");
 
     onSince = functions.now();
-    client.user.setActivity('+investment', {type: 'WATCHING'}).catch(console.error());
+    client.user.setActivity('SA', {type: 'WATCHING'}).catch(console.error());
 
     console.log("Guild size: " + client.guilds.cache.size);
     /*
