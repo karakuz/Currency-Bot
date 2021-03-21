@@ -59,7 +59,7 @@ module.exports.readCommand = async function(message,prefix,client){
         case 'currencies':
             currCommands.getEmbed(message,false);
         break;
-
+        /*
         case 'cryptos':
             if(args[1] === undefined) cryptosHelp.getEmbed(message,false);
             else if(args[1] === "all" || args[1] === "hepsi") cryptoHandler.getAllNames(client,message);
