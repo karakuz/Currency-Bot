@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 var client = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION','USER',"GUILD_MEMBER"] });
-const dcToken = 'Nzc2NTgwMDAwODA2NjAwNzA2.X628fA.WW7nEg8NF8Q7IcWSuuK7kTOngEY';
-const PREFIX = '-';
+const dcToken = 'ODIzMjcwNjI0MjM4NjMyOTYw.YFeYhA.ZI7ku3vsTgNLRgb3yGjkXla0IsM';
+const PREFIX = '+';
 //const ms = 317000;
 
 const fs = require('fs');
@@ -55,6 +55,7 @@ client.on('debug', (...args) => {
 */
 const serverHandler = require('./servers/serverHandler');
 const satelliteHandler = require('./currencies/satelliteHandler');
+/*
 client.on('guildCreate', (guild) =>{
     console.log(`Name: ${guild.name}, ID: ${guild.id} -> joined to the guild`);
     serverHandler.addServer(client,guild);
@@ -65,9 +66,10 @@ client.on('guildDelete', (guild) =>{
     serverHandler.removeServer(client,guild.id);
     satelliteHandler.removeAuth(guild.id);
 });
-
+*/
 //HANDLING REACTIONS ON SUPPORT SERVER
 const embedHandler = require('./body/embeds/embedsHandler');
+/*
 client.on('messageReactionAdd', async (reaction, user) => {
     if(reaction.message.channel.id === '791219178220421140'){
         let message = reaction.message;
@@ -133,14 +135,13 @@ async function getReactedUsers(channel, messageID, emoji){
     });
     return res;
 }
-
+*/
 //Commands
 const commands = require('./body/commands');
 client.on('message', (message) => {
     commands.readCommand(message,PREFIX,client);    
 });
 
-const timer = require('./investment/profileHandler');
 client.login(dcToken)
     .then(setInterval(timer.timer,180000))
     .catch(err => console.log("MAIN ERROR:\n"+err));
